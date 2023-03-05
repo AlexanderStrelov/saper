@@ -1,4 +1,12 @@
-# saper
+# 
+I made it by 11 hours
+
+SAPER
+## PROJECT PLAY
+play in this game by link
+
+https://alexdone.ru/saper/
+
 
 ## Project setup
 ```
